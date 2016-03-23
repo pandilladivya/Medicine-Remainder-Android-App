@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:colorPrimary" tools:targetApi="lollipop">@color/primaryColor</item>
+        <item name="android:colorPrimaryDark" tools:targetApi="lollipop">@color/primaryColorDark</item>
+        <item name="android:colorAccent" tools:targetApi="lollipop">@color/accentColor</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
